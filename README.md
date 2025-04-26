@@ -1,4 +1,5 @@
-# Hello UFERSA 👋
+# Hello 👋
+## Eu sou estudante de Tecnologia da Informação (UFERSA)
 
 <!--
 **olbinout/olbinout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
