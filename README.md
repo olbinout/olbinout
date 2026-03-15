@@ -1,6 +1,6 @@
 # Hello 👋
 ## Eu sou Otávio e estou cursando BTI na UFERSA Campus Pau dos Ferros
-# Me interessei pela Engenharia de Computação e pretendor fazer o meu segundo ciclo nela.
+### Me interessei pela Engenharia de Computação e pretendor fazer o meu segundo ciclo nela.
 
 <!--
 **olbinout/olbinout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
