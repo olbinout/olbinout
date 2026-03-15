@@ -1,6 +1,7 @@
 # Hello 👋
 ## Eu sou Otávio e estou cursando BTI na UFERSA Campus Pau dos Ferros
-### Me interessei pela Engenharia de Computação e pretendor fazer o meu segundo ciclo nela.
+### Me interessei pela Engenharia de Computação e pretendo fazer o meu segundo ciclo nela.
+### Posteriomente eu pretendo aprender sobre Java + SpringBoot. Então, se daqui um tempo no meu perfil tiver alguma projeto com isso, significa que eu aprendi sobre
 
 <!--
 **olbinout/olbinout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
