@@ -1,6 +1,5 @@
 # Hello 👋
 ## Eu sou Otávio e estou cursando BTI na UFERSA Campus Pau dos Ferros
-### Me interessei pela Engenharia de Computação e pretendo fazer o meu segundo ciclo nela.
 ### Posteriomente, eu pretendo aprender Java + SpringBoot. Então, se daqui um tempo tiver algum projeto relacionado com isso no meu perfil, significa que eu aprendi essas tecnologias.
 
 <!--
